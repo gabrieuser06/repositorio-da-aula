@@ -1,5 +1,5 @@
 index.html
-
+TODOS OS CREDITOS A EQUIPE ALURA
 <!DOCTYPE html>
 <html lang="pt-BR">
 <head>
